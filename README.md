@@ -1,1 +1,5 @@
-# CozyAzure-Development.github.io
+Greetings!
+
+We're an indie development group that makes in sci-fi (and others)-themed games and products!
+
+We're excited to have you here.
