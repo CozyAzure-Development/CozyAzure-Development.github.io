@@ -7,3 +7,7 @@ We're excited to have you here.
 ## Useful links
 
 [Discord server](https://discord.gg/rufM3yyXsx)
+[Products](CozyAzure-Development.github.io/#Products)
+
+## Products
+[Kones](https://github.com/CozyAzure-Development/Kones)
